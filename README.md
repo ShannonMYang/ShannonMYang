@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 ### 我的Github
 [![ShannonMYang's github stats](https://github-readme-stats.vercel.app/api?username=shannonmyang&show_icons=true&theme=dracula&local=cn)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ### 我的代码库(部分)
+-->
 <!--
 要显示的仓库，都可以在这里逐一填写上
 -->
@@ -38,11 +40,13 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shannonmyang&repo=CDemo)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 ### 我的编程语言使用排行榜
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannonmyang)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ### 我的联系方式
-[简书](https://www.jianshu.com/u/2fd0c319f098)
-[个人博客](https://shannonmyang.github.io/)
+> `简书`: [简书](https://www.jianshu.com/u/2fd0c319f098)
+> `个人博客`: [个人博客](https://shannonmyang.github.io/)
