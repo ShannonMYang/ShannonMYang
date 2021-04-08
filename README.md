@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ### 技术栈
 ![Swift](https://img.shields.io/badge/-Swift-%232c3e50?style=for-the-badge&logo=Swift)
 ![C](https://img.shields.io/badge/-C-%232c3e50?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-%232c3e50?style=for-the-badge&logo=C++)
+![Python](https://img.shields.io/badge/-Python-%23E44D27?style=for-the-badge&logo=Python&logoColor=ffffff)
+![Go](https://img.shields.io/badge/-Go-%23F7DF1C?style=for-the-badge&logo=go&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
