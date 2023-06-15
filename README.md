@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![XCode](https://img.shields.io/badge/-XCode-%232c3e50?style=for-the-badge&logo=xcode)
 
 ### 我的Github
 [![ShannonMYang's github stats](https://github-readme-stats.vercel.app/api?username=shannonmyang&show_icons=true&theme=dracula&local=cn)](https://github.com/anuraghazra/github-readme-stats)
