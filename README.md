@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### 技术栈
 ![Swift](https://img.shields.io/badge/-Swift-%232c3e50?style=for-the-badge&logo=Swift)
 ![C](https://img.shields.io/badge/-C-%232c3e50?style=for-the-badge&logo=C)
@@ -27,6 +28,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![XCode](https://img.shields.io/badge/-XCode-%232c3e50?style=for-the-badge&logo=xcode)
+
+------
 
 ### 我的Github
 [![ShannonMYang's github stats](https://github-readme-stats.vercel.app/api?username=shannonmyang&show_icons=true&theme=dracula&local=cn)](https://github.com/anuraghazra/github-readme-stats)
@@ -47,6 +50,8 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannonmyang)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+------
 
 ### 我的联系方式
 > `稀土掘金`: [稀土掘金](https://juejin.cn/user/2348212569521069)
